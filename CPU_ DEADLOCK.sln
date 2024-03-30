@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankers_algorithm_for_deadlock_avoidance", "CPU_ DEADLOCK\Bankers_algorithm_for_deadlock_avoidance.csproj", "{3152AF23-1104-4535-84B8-A71EFF9C22B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm_for_deadlock_detection", "Algorithm_for_deadlock_detection\Algorithm_for_deadlock_detection.csproj", "{18147DA1-055A-4FCE-8883-7E31165EE9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3152AF23-1104-4535-84B8-A71EFF9C22B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3152AF23-1104-4535-84B8-A71EFF9C22B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3152AF23-1104-4535-84B8-A71EFF9C22B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3152AF23-1104-4535-84B8-A71EFF9C22B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18147DA1-055A-4FCE-8883-7E31165EE9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18147DA1-055A-4FCE-8883-7E31165EE9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18147DA1-055A-4FCE-8883-7E31165EE9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18147DA1-055A-4FCE-8883-7E31165EE9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C56F3205-63BD-4204-8B3A-29C0D668CC6E}
+	EndGlobalSection
+EndGlobal
